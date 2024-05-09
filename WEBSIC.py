@@ -1,6 +1,5 @@
 import requests
 import os
-
 try:
     import colorama
 except ModuleNotFoundError:
